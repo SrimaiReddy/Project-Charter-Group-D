@@ -4,7 +4,7 @@ This is the project charter for the Codeword Distributor project.
 This application will be delivered as a  iOS application. 
 
 - [View Published Version]()
-- [Source Code](https://github.com/ujjwalkumar1212/Project-Charter-Group-D)
+- [Source Code](https://github.com/anuragkumar96/Project-Charter-Group-D.git)
 
 
 ## Team Collaborators
@@ -47,8 +47,6 @@ This application is used by Students.
 
 ## Stories by Role
 
-For each role, provide a numbered list of stories in the form "As a [user role], I want [some goal] so that [reason]".
-
 Administrator Perspective
 As a admin, I would like this application to generate the required code without fail as user should get through that easily
 
@@ -71,15 +69,16 @@ Ujjawal Kumar - As a user I would be taking care of designing the database and d
 
 This team is organized as follows.
 
-|                        | Primary   | Secondary   | Content |
-| ---------------------- | --------- | ----------- |---------|
-| Team Lead              |           |             | Repo, intro, budget, schedule, risk, coordination   |
-| Architect              |           |             | E-R diagram |
-| Data                   |           |             | Sample data |
-| UX                     |           |             | Sketches  |
-| Testing & Acceptance   |           |             | Stories, acceptance criteria |
-
+|                        | Primary              | Secondary            | Content |
+| ---------------------- | -------------------- | -------------------- |---------|
+| Team Lead              | Ujjawal Kumar        | Sravya Kancharla     | Repo, intro, budget, schedule, risk, coordination   |
+| Architect              | Anurag Kumar         | Srimai Reddy Yanala  | E-R diagram |
+| Data                   | Sravya Kancharla     | Vyshnavi Yalamareddy | Sample data |
+| UX                     | Srimai Reddy Yanala  | Anurag Kumar         | Sketches  |
+| Testing & Acceptance   | Vyshnavi Yalamareddy | Ujjawal Kumar        | Stories, acceptance criteria |
 ## Scope
+
+Our main aim is to
 
 ### Phase 1 - Conception and initiation (Module 1)
 
@@ -99,6 +98,7 @@ This phase includes the development of:
 - Initial stories by role ()
 - Initial acceptance criteria (link)
 - Initial E-R diagram (link)
+
 - Initial sample data (https://github.com/ujjwalkumar1212/Project-Charter-Group-D/raw/master/CodeExcel.xlsx)
 - Initial project sketches (link - images must be displayed)
 
